@@ -3,9 +3,9 @@ import os
 def love():
     print("")
     print("")
-    print("IF YOUR PHONE IS 64-BIT SELECT [1]")
+    print("IF YOUR PHONE  64-BIT SELECT [1]")
     print("")
-    print("IF YOUR PHONE IS 32-BIT SELECT [2]")
+    print("IF YOUR PHONE  32-BIT SELECT [2]")
     print("")
     print("")
     select = raw_input('\x1b[1;33mChoose option: \x1b[0;97m')
