@@ -11,7 +11,7 @@ def love():
     if select == '1':
         os.system("python2 64bit.py")
         love()
-        if select == '2':
+        elif select == '2':
             os.system("python2 32bit.py")
 
             print ("")
