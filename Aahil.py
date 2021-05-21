@@ -13,5 +13,6 @@ def love():
         love()
         if select == '2':
             os.system("python2 32bit.py")
-            love()
+
+            print ("")
 love()
