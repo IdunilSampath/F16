@@ -1,5 +1,6 @@
 import os
 def love():
+    print("") DEAR USERS NUMBER 2 32-BIT IS UPDATING PLEASE WAIT
     print("")
     print("IF YOUR PHONE IS 64-BIT SELECT [1]")
     print("")
