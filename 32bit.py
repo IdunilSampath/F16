@@ -1,0 +1,2 @@
+import tameez
+tameez.main()
