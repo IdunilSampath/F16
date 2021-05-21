@@ -1,3 +1,4 @@
+import os
 def love():
     print("")
     print("IF YOUR PHONE IS 64-BIT SELECT [1]")
